@@ -1,0 +1,51 @@
+,ID_Espai,Nom_Espai,Nom_Distri,C_Distri,Nom_Barri,C_Barri,Fase,Àrea,Mes,N_visites,Exc,B_dom,B_ind,Vol,longitude,latitude,score
+1,74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,6,4,4.25,6.75,7.25,0.25,2.1855217,41.4425714,59.3125
+2,70,"Carrer del Montnegre, 54",Les Corts,4,les Corts,19,Fase 2,1003.76,7,5,4.8,2.8,7.6,1.4,2.1401162,41.3885533,53.3
+4,72,Plaça de Sant Vicenç de Sarrià,Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,876.9,6,2,0.0,3.0,9.5,0.0,2.1241204,41.3974386,48.5
+7,56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,2,2,0.09,5.5,7.5,5.0,2.215306,41.412657,46.9075
+8,1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,6,3,0.33,5.33,7.0,0.33,2.1777026,41.3769186,46.4025
+9,55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,9,4,0.75,7.5,4.75,3.25,2.2154998,41.4176861,45.0625
+10,56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,3,3,2.67,10.0,2.0,3.67,2.215306,41.412657,42.1725
+14,57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,3,5,14.4,2.6,0.0,0.2,2.19806934355839,41.4196863,39.2
+15,48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,8,4,2.75,5.5,3.5,0.75,2.17561456415535,41.4406741,38.5625
+16,37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,7,5,3.0,7.6,1.4,0.2,2.1609535,41.415072,37.35
+17,55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,7,4,2.5,6.75,2.5,3.25,2.2154998,41.4176861,37.25
+18,9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,4,4,13.0,1.75,1.0,0.0,2.15282229592986,41.37880915,37.125
+20,39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,4,4,13.75,2.5,0.0,0.0,2.16850610860766,41.40971665,36.3125
+21,54,Plaça Jardins de Pepa Colomer,Sant Andreu,9,la Sagrera,61,Fase 1,4854.17,3,4,16.75,0.25,0.0,2.0,2.19039953716034,41.41886965,35.9375
+22,59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,3,4,16.25,0.5,0.0,0.0,2.2039176,41.4238728,35.6875
+23,22,Jardins de Joan Altisent,Les Corts,4,les Corts,19,Fase 1,2615.72,4,4,15.75,0.0,0.5,0.0,2.14188878120256,41.3875629,35.5625
+25,70,"Carrer del Montnegre, 54",Les Corts,4,les Corts,19,Fase 2,1003.76,9,3,4.33,5.0,2.67,0.0,2.1401162,41.3885533,35.2575
+26,55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,3,5,3.0,7.6,0.8,0.4,2.2154998,41.4176861,34.95
+27,16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,3,4,11.75,2.5,0.5,1.5,2.13952094880137,41.36054045,34.8125
+29,37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,4,4,3.25,3.0,3.75,0.75,2.1609535,41.415072,34.1875
+30,22,Jardins de Joan Altisent,Les Corts,4,les Corts,19,Fase 1,2615.72,5,4,14.25,0.5,0.5,0.0,2.14188878120256,41.3875629,34.1875
+31,63,"Carrer de la Princesa, 15",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,1434.73,6,3,0.0,3.33,5.33,1.33,2.1820736,41.386603,34.145
+34,55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,4,3,3.0,7.33,1.33,1.67,2.2154998,41.4176861,33.395
+35,14,Carrer d'Elkano,Sants-Montjuïc,3,el Poble Sec,11,Fase 1,3996.56,3,4,3.5,6.5,1.25,0.75,2.1646705,41.3726665,33.375
+38,11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,4,4,4.75,4.0,2.0,0.0,2.1795138,41.406444,32.3125
+39,39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,3,4,14.25,0.5,0.0,0.0,2.16850610860766,41.40971665,32.1875
+41,41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,9,4,0.25,8.25,1.25,1.0,2.1562353,41.425298,32.0625
+43,44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,7,5,0.2,3.4,3.8,0.2,2.1773823,41.4395836,31.55
+44,21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,4,4,14.5,0.0,0.0,0.0,2.13561553024073,41.38502755,31.375
+46,61,"Carrer de la Maquinista, 53",Ciutat Vella,1,la Barceloneta,3,Fase 2,562.46,9,3,2.0,1.67,4.67,2.33,2.1888683,41.3807756,30.855
+48,44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,4,4,0.75,4.75,2.75,0.5,2.1773823,41.4395836,30.1875
+49,21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,6,4,12.75,0.75,0.0,0.0,2.13561553024073,41.38502755,30.1875
+51,14,Carrer d'Elkano,Sants-Montjuïc,3,el Poble Sec,11,Fase 1,3996.56,2,3,1.4,5.0,2.67,0.33,2.1646705,41.3726665,30.13
+52,19,Carrer Guitard,Les Corts,4,les Corts,19,Fase 1,2939.53,2,3,0.17,9.0,0.67,0.0,2.1381298,41.381727,29.9775
+53,55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,8,5,3.0,4.4,1.4,0.4,2.2154998,41.4176861,29.35
+55,9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,5,5,11.2,0.8,0.0,0.0,2.15282229592986,41.37880915,29.1
+56,57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,4,4,7.25,3.75,0.25,0.0,2.19806934355839,41.4196863,29.0625
+57,16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,6,4,3.25,0.5,4.0,0.0,2.13952094880137,41.36054045,28.9375
+59,74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,7,5,3.0,4.2,1.2,0.0,2.1855217,41.4425714,28.05
+60,55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,2,2,0.19,5.0,3.0,0.5,2.2154998,41.4176861,27.8325
+61,74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,9,3,0.0,4.0,3.33,0.33,2.1855217,41.4425714,27.82
+62,9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,9,4,6.75,4.0,0.0,0.0,2.15282229592986,41.37880915,27.8125
+63,3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,8,4,0.5,5.5,1.75,0.0,2.1674209,41.3774375,27.625
+65,18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,8,5,11.2,0.2,0.0,0.0,2.15629025933178,41.37353735,27.6
+66,59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,5,4,8.0,3.0,0.0,0.0,2.2039176,41.4238728,27.5
+67,42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,7,5,11.4,0.0,0.0,0.0,2.15151091738004,41.4206525,27.45
+68,1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,3,4,0.0,3.75,3.0,0.25,2.1777026,41.3769186,27.375
+71,31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,7,5,0.0,5.2,1.6,0.0,2.1514436,41.4036571,26.9
+73,9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,3,4,10.5,0.5,0.25,0.0,2.15282229592986,41.37880915,26.625
+74,44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,8,4,0.0,3.0,3.25,0.25,2.1773823,41.4395836,26.5
